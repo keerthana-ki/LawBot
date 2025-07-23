@@ -1,0 +1,36 @@
+# Ignore Python bytecode and cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignore virtual environment folders
+venv/
+env/
+.venv/
+
+# Ignore system-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore Jupyter Notebook checkpoints (if you use notebooks)
+.ipynb_checkpoints/
+
+# Ignore logs
+*.log
+
+# Ignore local environment and secrets
+.env
+*.env
+
+# Ignore build artifacts (in case you package something)
+build/
+dist/
+*.egg-info/
+
+# Ignore Streamlit's cache (so it doesn't bloat the repo)
+.streamlit/
+
+# Ignore IDE/project settings
+.vscode/
+.idea/
+*.swp

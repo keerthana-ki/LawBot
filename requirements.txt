@@ -1,0 +1,11 @@
+fastapi>=0.109.0
+uvicorn>=0.27.0
+transformers>=4.40.0
+sentence-transformers>=2.6.0
+torch>=2.2.0
+pandas>=2.0.0
+pymupdf>=1.24.0
+streamlit>=1.32.0
+python-dotenv>=1.0.0
+python-multipart>=0.0.6
+accelerate>=0.29.0
