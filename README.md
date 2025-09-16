@@ -96,7 +96,6 @@ A group of people killed a person late night near KR Circle.
 
 * **Case Type:** Criminal
 * **Relevant IPC Sections:**
-
   * Section 301: Culpable homicide by causing death of person other than person intended
   * Section 308: Attempt to commit culpable homicide
   * Section 303: Murder by a person under Sentence of imprisonment for life
@@ -115,10 +114,27 @@ A group of people killed a person late night near KR Circle.
 
 ---
 
-## 🎬 Demo / Screenshots
+## 📸 Screenshots
 
-![Streamlit UI Screenshot](link-to-your-screenshot.png)
-*Replace `link-to-your-screenshot.png` with an actual image or GIF showing your app in action.*
+### Screenshot 1 – Codebase
+This shows a snippet of the project's codebase in VS Code, highlighting the use of **FastAPI** and **Pydantic**.  
+![Codebase](images/screenshot1.png)
+
+### Screenshot 2 – Upload UI
+This is the main user interface where users can upload a **PDF** or enter a **case description** for analysis.  
+![Upload UI](images/screenshot2.png)
+
+### Screenshot 3 – Case Summary
+This shows the **analysis results**, including a predicted case type and confidence scores displayed in a **bar chart**.  
+![Case Summary](images/screenshot3.png)
+
+### Screenshot 4 – Relevant IPC Sections
+This displays the **detailed analysis**, listing relevant **IPC sections** and associated keywords.  
+![IPC Sections](images/screenshot4.png)
+
+### Screenshot 5 – Analysis Report
+This shows the final generated **analysis report** in a downloadable `.txt` format.  
+![Analysis Report](images/screenshot5.png)
 
 ---
 
